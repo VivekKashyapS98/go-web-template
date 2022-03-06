@@ -6,6 +6,6 @@ You can use this as your starter code. MongoDB Atlas is used here. So, you will 
 
 ## In case you are new to `gqlgen` package
 
-Please refer [this blog](https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang/) which explains how to use `gqlgen` to build a backend API with GraphQL and Golang, in detail.
+Please refer [this blog](https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang/) which explains in detail, how to use `gqlgen` to build a backend API with GraphQL and Golang.
 
 Hope it helps. Cheers.. ;)
