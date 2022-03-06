@@ -1,4 +1,4 @@
-#GO-WEB-TEMPLATE
+# GO-WEB-TEMPLATE
 
 This is a web template (GraphQL) which includes authentication & authorization code to get started.
 
